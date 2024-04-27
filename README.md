@@ -1,2 +1,2 @@
 # Human Resource Data Analysis
-Human Resource data with over 22000 rows analyzed and visualized using SQL(MYSQL) and Power BI
+HR analytics allows HR professionals to make informed decisions and create strategies that will benefit employees and support organizational goals. This has a significant impact on organizational performance, leading to as much as a 25% rise in business productivity, a 50% decrease in attrition rates, and an 80% increase in recruiting efficiency.
